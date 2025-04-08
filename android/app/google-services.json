@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "289480720376",
+    "project_id": "myapp-3f5d4",
+    "storage_bucket": "myapp-3f5d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289480720376:android:f7b160143d853f4e2be00d",
+        "android_client_info": {
+          "package_name": "com.abinaya.learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweRX1AGnDVzSqCzdLghm-Dud1Tj2eGV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289480720376:android:d80ba29cbafb11642be00d",
+        "android_client_info": {
+          "package_name": "com.abinaya.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweRX1AGnDVzSqCzdLghm-Dud1Tj2eGV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289480720376:android:f20ea65158f4d7da2be00d",
+        "android_client_info": {
+          "package_name": "com.example.csk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweRX1AGnDVzSqCzdLghm-Dud1Tj2eGV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
